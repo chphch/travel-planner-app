@@ -1,11 +1,12 @@
 # Node dependencies
 node_modules/
-npm-debug.log*
+pm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
 # Python cache and virtual environments
 __pycache__/
 *.pyc
-*.py.classenv/
+*.py.class
+venv/
 *.env
